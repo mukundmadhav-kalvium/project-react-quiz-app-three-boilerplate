@@ -1,0 +1,16 @@
+.play-btn{
+    background-color: #0AB306;
+    margin-top: 20px;
+    width: 180px;
+    height: 40px;
+    color: white;
+    border-radius: 20px;
+}
+
+.main-container-home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
